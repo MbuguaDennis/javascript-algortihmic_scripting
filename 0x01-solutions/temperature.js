@@ -8,9 +8,3 @@ function myTemperature(celsius){
     return fahrenheit;
 
 }
-console.log(myTemperature(30));
-
-// #problem2;
-
-
-
